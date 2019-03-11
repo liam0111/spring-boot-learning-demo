@@ -1,7 +1,6 @@
 # Spring Boot learning demo
 学习Spring Boot所写的一些简单的示例，以下为各项目说明(按学习顺序排序)：
-- SpringBootDemo: 
-
+- SpringBootDemo:  
   &#8195;&#8195;Hello World的示例
 - SpringBootWebDemo: 简单网站的示例
 - SpringBootJspDemo: 使用JSP搭建简单网站的示例
