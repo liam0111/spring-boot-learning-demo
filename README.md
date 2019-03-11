@@ -1,2 +1,21 @@
-# spring-boot-learning-demo
-Spring Boot learning demo
+# Spring Boot learning demo
+学习Spring Boot所写的一些简单的示例，以下为各项目说明：
+*SpringBootActiveMQDemo
+*SpringBootCacheDemo
+*SpringBootDemo
+*SpringBootFileUploadDemo
+*SpringBootJdbcDemo
+*SpringBootJpaDemo
+*SpringBootJpaThymeleafDemo
+*SpringBootJspDemo
+*SpringBootMultiJdbcDemo
+*SpringBootMultiJpaDemo
+*SpringBootMultiMybatisAnnotationDemo
+*SpringBootMultiMybatisXmlDemo
+*SpringBootMybatisAnnotationDemo
+*SpringBootMybatisXmlDemo
+*SpringBootRedisDemo
+*SpringBootRestfulDemo
+*SpringBootThymeleafDemo
+*SpringBootWebDemo
+*SpringBootWebSocketDemo
