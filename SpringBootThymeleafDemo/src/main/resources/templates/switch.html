@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Example switch</title>
+</head>
+<body>
+<div>
+    <div th:switch="${sex}">
+        <p th:case="'woman'">女人</p>
+        <p th:case="'man'">男人</p>
+        <!-- *:case的默认选项 -->
+        <p th:case="*">未知性别</p>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+package com.liam.springboot.activemq.config;
+
+import org.apache.activemq.command.ActiveMQQueue;
+import org.apache.activemq.command.ActiveMQTopic;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import javax.jms.Queue;
+import javax.jms.Topic;
+
+/**
+ * @Author: Liam
+ * @Date: 2019/3/10 21:54
+ */
+@Configuration
+public class MqConfig {
+    @Bean
+    public Queue queue() {
+        return new ActiveMQQueue("liam.queue");
+    }
+
+    @Bean
+    public Topic topic() {
+        return new ActiveMQTopic("liam.topic");
+    }
+}
