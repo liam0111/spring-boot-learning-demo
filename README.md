@@ -1,5 +1,5 @@
 # Spring Boot learning demo
-学习Spring Boot所写的一些简单的示例，以下为各项目说明(按学习顺序排序)(所有项目均使用JDK8+SpringBoot2):
+学习Spring Boot所写的一些简单的示例，以下为各项目说明(按学习顺序排序)(所有项目均使用JDK8+SpringBoot2):  
 Spring Boot learning demo, below are descriptions(in chronological order)(JDK8+Spring Boot2):
 - SpringBootDemo:  
   &#8195;&#8195;&#8195;Hello World的示例/Hello World Demo
