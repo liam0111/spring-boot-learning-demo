@@ -43,3 +43,5 @@ Spring Boot learning demo, below are descriptions(in chronological order)(JDK8+S
   &#8195;&#8195;&#8195;集成RabbitMQ的示例/RabbitMQ Demo
 - SpringBootQuartzDemo:  
   &#8195;&#8195;&#8195;集成Quartz的示例/Quartz Demo
+- SpringBootDubboDemo:  
+  &#8195;&#8195;&#8195;集成Dubbo的示例/Dubbo Demo
